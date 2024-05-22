@@ -1,0 +1,24 @@
+{
+  "name": "cordova-plugin-myplugin",
+  "version": "1.0.0",
+  "description": "An example Cordova plugin",
+  "cordova": {
+    "id": "cordova-plugin-myplugin",
+    "platforms": [
+      "ios"
+    ]
+  },
+  "keywords": [
+    "cordova",
+    "ionic",
+    "plugin"
+  ],
+  "engines": {
+    "cordovaDependencies": {
+      "cordova": ">=7.0.0"
+    }
+  },
+  "author": "Your Name",
+  "license": "Apache-2.0"
+}
+
